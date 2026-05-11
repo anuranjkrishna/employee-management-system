@@ -20,7 +20,7 @@ It helps to manage employee data like add, update, view and delete employees.
 ## 📷 Screenshots
 (Add screenshots here)
 
-## ⚙️ How to Run Project
+## ⚙️ How to Run Proj🌐 Live Demo: https://your-netlify-link.netlify.appect
 1. Install requirements:
 2. Run server:
 
