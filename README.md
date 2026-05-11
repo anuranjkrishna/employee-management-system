@@ -1,44 +1,29 @@
 # Employee Management System
 
-A Django-based Employee Management System with authentication and CRUD operations.
+## 📌 Project Description
+This is a Django-based Employee Management System.  
+It helps to manage employee data like add, update, view and delete employees.
 
-## Features
-
-- Employee List
+## 🚀 Features
 - Add Employee
-- Edit Employee
+- Edit Employee Details
 - Delete Employee
-- Search Employee
-- Login Authentication
-- Admin Panel
+- View Employee List
 
-## Technologies Used
-
+## 🛠 Tech Stack
 - Python
 - Django
 - HTML
 - CSS
-- Bootstrap
 - SQLite
 
-## Installation
+## 📷 Screenshots
+(Add screenshots here)
 
-```bash
-git clone <repository-link>
-```
+## ⚙️ How to Run Project
+1. Install requirements:
+2. Run server:
 
-```bash
-cd employee-management-system
-```
 
-```bash
-pip install -r requirements.txt
-```
-
-```bash
-python manage.py runserver
-```
-
-## Author
-
-Anuranjkrishna K
+## 👨‍💻 Developer
+Anuranj Krishna
